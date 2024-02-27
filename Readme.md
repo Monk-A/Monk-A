@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Malik</h1>
-<h3 align="center">CTO & COO @HackerEdge Sophomore, IIT Madras | Ex- 6dlabs, CregTech</h3>
+<h3 align="center">CTO & COO @HackerEdge | Sophomore, IIT Madras | Ex- 6dlabs, CregTech</h3>
 
 - 🔭 I’m currently working on [Building a Ed-Tech Platform](www.hackeredge.in)
 
